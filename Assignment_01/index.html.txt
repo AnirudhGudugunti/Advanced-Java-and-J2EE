@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Student details</title>
+</head>
+<body> 
+	<form action="abc" method="get">
+	Enter the student name:<input type="text" name="sn">
+	<br>
+	Enter the student usn:<input type="text" name="su">
+	<br>
+	<input type="Submit">
+	</form>
+</body>
+</html>
