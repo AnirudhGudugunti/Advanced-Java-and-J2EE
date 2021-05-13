@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>Session</servlet-name>
+<servlet-class>Assignment02</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>Session</servlet-name>
+<url-pattern>/st</url-pattern>
+</servlet-mapping>
+
+</web-app>
